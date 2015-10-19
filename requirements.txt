@@ -1,3 +1,2 @@
 flower
 redis
-psycopg2
